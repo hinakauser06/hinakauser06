@@ -1,6 +1,17 @@
 - 👋 <i>Hey there, I’m Hina<i>
 <hr>
-<a href="[https://www.facebook.com/](https://www.facebook.com/hina.kauser.52035/)"><i class="bi bi-facebook"></i></a>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thekauserhouse/)
+
+
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
+
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/hinakauser06)
+
+
 - 👀 I’m interested in Technology, travelling and food :)
   
 - 🌱 I’m currently learning MERN
