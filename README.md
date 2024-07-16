@@ -14,7 +14,7 @@
 
 - 👀 I’m interested in Technology, travelling and food :)
   
-- 🌱 I’m currently learning MERN
+- 🌱 I’m Full Stack Developer / Web Developer / Software Engineer
 - 📫 Please contact me on : hinakauserengg@gmail.com 
 - 😄 Pronouns: Hina
 - ⚡ Fun fact: Never let a computer know you're in a hurry.
